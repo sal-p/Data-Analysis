@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sal-p
+- 👀 I’m interested in AI, and data analysis.
+- - 🌱 I’m currently learning data analysis.
+- 💞️ I’m looking to collaborate on AI.
